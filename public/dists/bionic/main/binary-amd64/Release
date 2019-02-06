@@ -1,5 +1,5 @@
 Origin: . bionic
 Label: . bionic
 Archive: bionic
-Architecture: all
+Architecture: amd64
 Component: main
