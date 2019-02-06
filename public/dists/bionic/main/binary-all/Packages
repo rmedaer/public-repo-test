@@ -1,0 +1,17 @@
+Package: demo-package
+Priority: optional
+Section: unknown
+Installed-Size: 10
+Maintainer: Raphael Medaer <rme@escaux.com>
+Architecture: all
+Version: 1.0.0-1
+Filename: pool/main/d/demo-package/demo-package_1.0.0-1_all.deb
+Size: 2186
+MD5sum: 8aa16b430d16218f8fef822867247719
+SHA1: 7a9dc0316cf8e1402de38dfaac23e29f7e425080
+SHA256: c01a9e8c9339ca9f5797ea8830130eb1aa004d5b874a499d0f7c9e020e9cb3ea
+SHA512: 0f825d36e2bffc385e71395f1f78cf004ee8d272e4cfe537c0ead2b0a174fe0a71da64543bbaac3cf7dca92f06a1b80e41b835c7caddcb91f92ca2a78aa16f38
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+Homepage: <insert the upstream URL, if relevant>
+
